@@ -12,6 +12,8 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
  | [:fire: Firewall Classification](https://github.com/HikariJadeEmpire/Firewall_Classifier) | ![](https://img.shields.io/badge/EDA-rgb(52,152,219)) ![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219)) ![](https://img.shields.io/badge/Visualization-rgb(52,152,219)) | The development of a machine learning algorithm to classify firewall actions. | ![](https://img.shields.io/badge/scikit%20learn-rgb(32,178,170)) ![](https://img.shields.io/badge/Pandas-rgb(32,178,170)) ![](https://img.shields.io/badge/matplotlib-rgb(32,178,170)) ![](https://img.shields.io/badge/seaborn-rgb(32,178,170)) |
  | [:houses: Real estate price prediction.](https://github.com/HikariJadeEmpire/Real_Estate_Prediction) | ![](https://img.shields.io/badge/EDA-rgb(52,152,219)) ![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219)) | Training real estate price prediction model. | ![](https://img.shields.io/badge/scikit%20learn-rgb(32,178,170)) ![](https://img.shields.io/badge/Pandas-rgb(32,178,170)) ![](https://img.shields.io/badge/matplotlib-rgb(32,178,170)) ![](https://img.shields.io/badge/seaborn-rgb(32,178,170)) | 
 
+<br>
+
  # SQL
  | Project Link | Area of Analysis | Project Description |
  |--------------|------------------|---------------------|
