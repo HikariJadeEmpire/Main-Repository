@@ -2,7 +2,7 @@
 Welcome to my data portfolio, where I provide an overview of my projects in the data field.
 # <h3> :file_cabinet: Table of Contents </h3>
 - [Python](https://github.com/HikariJadeEmpire/Main-Repository#-python-)
-- [SQL](https://github.com/HikariJadeEmpire/Main-Repository#-python-)
+- [SQL](https://github.com/HikariJadeEmpire/Main-Repository#sql)
 
 # Python
 | Project Link | Area | Project Description | Libraries |
