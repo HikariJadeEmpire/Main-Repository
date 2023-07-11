@@ -18,5 +18,5 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
  # SQL
  | Project Link | Area of Analysis | Project Description |
  |--------------|------------------|---------------------|
- | [:factory: Retail Analytics](https://github.com/HikariJadeEmpire/SQL_classicmodels) | ![](https://img.shields.io/badge/Data%20Analysis-rgb(52,152,219)) ![](https://img.shields.io/badge/Data%20Transformation-rgb(52,152,219)) | Analyzing the database of a retailer specializing in scale models of classic cars. |
+ | [:factory: Retail Analytics](https://github.com/HikariJadeEmpire/SQL_classicmodels) | ![](https://img.shields.io/badge/Data%20Transformation-rgb(52,152,219)) | Transforming the database of a retailer specializing in scale models of classic cars. |
  | XX | XX | XX |
