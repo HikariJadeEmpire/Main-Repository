@@ -1,6 +1,7 @@
 # :world_map: Hikari's Portfolio
 Welcome to my data portfolio, where I provide an overview of my projects in the data field.
 # <h3> :file_cabinet: Table of Contents </h3>
+- [Data Engineering]()
 - [Python](https://github.com/HikariJadeEmpire/Main-Repository#-python-)
 - [SQL](https://github.com/HikariJadeEmpire/Main-Repository#sql)
 
@@ -19,4 +20,14 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
  | Project Link | Area of Analysis | Project Description |
  |--------------|------------------|---------------------|
  | [:factory: Retail Analytics](https://github.com/HikariJadeEmpire/SQL_classicmodels) | ![](https://img.shields.io/badge/Data%20Transformation-rgb(52,152,219)) | Transforming the database of a retailer specializing in scale models of classic cars. |
- | XX | XX | XX |
+ 
+<br>
+
+# Data Engineering
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|---------------------|
+| [:elephant: Map-Reduce Assignment]() | May 2023 | [![](https://img.shields.io/badge/Hadoop-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pyspark-rgb(32,178,170))]() [![](https://img.shields.io/badge/Virtualbox-rgb(32,178,170))](https://www.virtualbox.org/) | Calculating the average personal incomes using a Map-Reduce job. |
+
+
+<br>
+
