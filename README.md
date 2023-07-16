@@ -31,5 +31,5 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
 <br>
 
 # 
-Go to top : [Top](https://github.com/HikariJadeEmpire/Main-Repository#world_map-hikaris-portfolio)
+Go to top : [:earth_asia: Top](https://github.com/HikariJadeEmpire/Main-Repository#world_map-hikaris-portfolio)
 
