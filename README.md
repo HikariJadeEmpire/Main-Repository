@@ -5,6 +5,14 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
 - [Python](https://github.com/HikariJadeEmpire/Main-Repository#-python-)
 - [SQL](https://github.com/HikariJadeEmpire/Main-Repository#sql)
 
+# Data Engineering
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|---------------------|
+| [:elephant: Map-Reduce Assignment](https://github.com/HikariJadeEmpire/Map-Reduce_Job) | May 2023 | [![](https://img.shields.io/badge/Hadoop-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pyspark-rgb(32,178,170))]() [![](https://img.shields.io/badge/Virtualbox-rgb(32,178,170))](https://www.virtualbox.org/) [![](https://img.shields.io/badge/Python-rgb(32,178,170))]() | Calculating the average personal incomes using a Map-Reduce job on **VirtualBox** with Hadoop and PySpark. |
+
+
+<br>
+
 # Python
 | Project Link | Area | Project Description | Libraries |
 |--------------|-----------------|-------|---------------------|
@@ -23,11 +31,6 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
  
 <br>
 
-# Data Engineering
-| Project Link | Completion Date | Tools | Project Description |
-|--------------|-----------------|-------|---------------------|
-| [:elephant: Map-Reduce Assignment](https://github.com/HikariJadeEmpire/Map-Reduce_Job) | May 2023 | [![](https://img.shields.io/badge/Hadoop-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pyspark-rgb(32,178,170))]() [![](https://img.shields.io/badge/Virtualbox-rgb(32,178,170))](https://www.virtualbox.org/) [![](https://img.shields.io/badge/Python-rgb(32,178,170))]() | Calculating the average personal incomes using a Map-Reduce job on **VirtualBox** with Hadoop and PySpark. |
-
-
-<br>
+# 
+Go to top : [Top]()
 
