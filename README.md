@@ -1,11 +1,11 @@
 # :world_map: Hikari's Portfolio
 Welcome to my data portfolio, where I provide an overview of my projects in the data field.
 # <h3> :file_cabinet: Table of Contents </h3>
-- [Data Engineering](https://github.com/HikariJadeEmpire/Main-Repository#data-engineering)
+- [DevOps & Data Engineering]()
 - [Python](https://github.com/HikariJadeEmpire/Main-Repository#-python-)
 - [SQL](https://github.com/HikariJadeEmpire/Main-Repository#sql)
 
-# Data Engineering
+# Devops & Data Engineering
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|-------|---------------------|
 | [:computer: Terraform with GCP](https://github.com/HikariJadeEmpire/Terraform-with-GCP) | 10 Aug 2023 | [![](https://img.shields.io/badge/Terraform-rgb(123,104,238))]() [![](https://img.shields.io/badge/GCP-rgb(244,208,63))](https://cloud.google.com/) [![](https://img.shields.io/badge/GCS-rgb(244,208,63))](https://cloud.google.com/) [![](https://img.shields.io/badge/HTML-rgb(32,178,170))]() [![](https://img.shields.io/badge/bash-rgb(32,178,170))]() | Deploy a static website to Google Cloud Storage using IaC with Terraform |
