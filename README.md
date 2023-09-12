@@ -31,7 +31,6 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
  # SQL
  | Project Link | Area of Analysis | Project Description |
  |--------------|------------------|---------------------|
- | [:ocean: Kafka sandbox](https://github.com/HikariJadeEmpire/Kafka_SandBox_byDocker) | [![](https://img.shields.io/badge/Data%20Streaming-rgb(52,152,219))]() [![](https://img.shields.io/badge/Real%20Time%20Analytics-rgb(52,152,219))]() | Kafka sandbox by docker, connecting MySQL to MySQL, Simple streaming by Python script and MySQL to HDFS |
  | [:factory: Retail Analytics](https://github.com/HikariJadeEmpire/SQL_classicmodels) | [![](https://img.shields.io/badge/Data%20Transformation-rgb(52,152,219))]() | Transforming the database of a retailer specializing in scale models of classic cars. |
  
 <br>
