@@ -2,7 +2,7 @@
 Welcome to my data portfolio, where I provide an overview of my projects in the data field.
 # <h3> :file_cabinet: Table of Contents </h3>
 - [DevOps & Data Engineering](https://github.com/HikariJadeEmpire/Main-Repository#devops--data-engineering)
-- [Combinations](https://github.com/HikariJadeEmpire/Main-Repository#combinations)
+- [Web apps](https://github.com/HikariJadeEmpire/Main-Repository#web-apps)
 - [Machine Learning & Deep learning](https://github.com/HikariJadeEmpire/Main-Repository#machine-learning--deep-learning)
 - [Analytics](https://github.com/HikariJadeEmpire/Main-Repository#analytics)
 
@@ -16,7 +16,7 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
 
 <br>
 
-# Combinations
+# Web apps
 | Project Link | Area | Project Description | Libraries |
 |--------------|-----------------|-------|---------------------|
 | [ :speech_balloon: Documents ChatBot](https://github.com/HikariJadeEmpire/LawDocuments-Chatbot) | [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Chatbot-rgb(222,49,99))]() [![](https://img.shields.io/badge/LLM-rgb(52,152,219))]() [![](https://img.shields.io/badge/RAG-rgb(52,152,219))]() [![](https://img.shields.io/badge/prompt-rgb(52,152,219))]() [![](https://img.shields.io/badge/Huggingface-rgb(244,208,63))]() [![](https://img.shields.io/badge/API-rgb(86,101,115))]() [![](https://img.shields.io/badge/Docker-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Tailored ```ChatGPT``` with information from your specific *DOCUMENTS*. | [![](https://img.shields.io/badge/chromadb-rgb(32,178,170))]() [![](https://img.shields.io/badge/openai-rgb(32,178,170))]() [![](https://img.shields.io/badge/dash-rgb(32,178,170))]() [![](https://img.shields.io/badge/requests-rgb(32,178,170))]() [![](https://img.shields.io/badge/pythainlp-rgb(32,178,170))]() [![](https://img.shields.io/badge/pytorch-rgb(32,178,170))]() [![](https://img.shields.io/badge/attacut-rgb(32,178,170))]() [![](https://img.shields.io/badge/rank_bm25-rgb(32,178,170))]() [![](https://img.shields.io/badge/pymupdf-rgb(32,178,170))]() [![](https://img.shields.io/badge/pandas-rgb(32,178,170))]() |
