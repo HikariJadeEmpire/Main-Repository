@@ -31,7 +31,7 @@ Welcome to my data portfolio, where I provide an overview of my projects in the 
 # Mobile apps
 | Project Link | Area | Project Description | Libraries |
 |--------------|-----------------|-------|---------------------|
-| [📱 My first mobile app](https://github.com/HikariJadeEmpire/my_first_mobile_app) | [![](https://img.shields.io/badge/Mobile_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Flutter-rgb(52,152,219))]() [![](https://img.shields.io/badge/Dart-rgb(32,178,170))]() [![](https://img.shields.io/badge/iOS-rgb(86,101,115))]() [![](https://img.shields.io/badge/Android-rgb(86,101,115))]() [![](https://img.shields.io/badge/Front%20End-rgb(86,101,115))]() | Showcases of my first mobile application development | ```none``` |
+| [📱 My first mobile app](https://github.com/HikariJadeEmpire/my_first_mobile_app) | [![](https://img.shields.io/badge/Mobile_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Flutter-rgb(52,152,219))]() [![](https://img.shields.io/badge/Dart-rgb(32,178,170))]() [![](https://img.shields.io/badge/iOS-rgb(86,101,115))]() [![](https://img.shields.io/badge/Android-rgb(86,101,115))]() [![](https://img.shields.io/badge/Front%20End-rgb(86,101,115))]() | Showcases of my first mobile application development. | ```none``` |
 
 <br>
 
