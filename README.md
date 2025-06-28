@@ -1,5 +1,5 @@
 # :world_map: Hikari's Portfolio
-Welcome to my data portfolio, where I provide an overview of my projects in the data field.
+Welcome to my data portfolio, where I provide an overview of my projects.
 # <h3> :file_cabinet: Table of Contents </h3>
 - [DevOps & Data Engineering](https://github.com/HikariJadeEmpire/Main-Repository#devops--data-engineering)
 - [Web apps](https://github.com/HikariJadeEmpire/Main-Repository#web-apps)
