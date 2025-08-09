@@ -21,7 +21,7 @@ Welcome to my portfolio, where I provide an overview of my projects.
 # Web apps
 | Project Link | Area | Project Description | Libraries |
 |--------------|-----------------|-------|---------------------|
-| [ :speech_balloon: Documents ChatBot](https://github.com/HikariJadeEmpire/LawDocuments-Chatbot) | [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Chatbot-rgb(222,49,99))]() [![](https://img.shields.io/badge/LLM-rgb(52,152,219))]() [![](https://img.shields.io/badge/RAG-rgb(52,152,219))]() [![](https://img.shields.io/badge/prompt-rgb(52,152,219))]() [![](https://img.shields.io/badge/Huggingface-rgb(244,208,63))]() [![](https://img.shields.io/badge/API-rgb(86,101,115))]() [![](https://img.shields.io/badge/Docker-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Tailored ```ChatGPT``` with information from your specific *DOCUMENTS*. | [![](https://img.shields.io/badge/chromadb-rgb(32,178,170))]() [![](https://img.shields.io/badge/openai-rgb(32,178,170))]() [![](https://img.shields.io/badge/dash-rgb(32,178,170))]() [![](https://img.shields.io/badge/requests-rgb(32,178,170))]() [![](https://img.shields.io/badge/pythainlp-rgb(32,178,170))]() [![](https://img.shields.io/badge/pytorch-rgb(32,178,170))]() [![](https://img.shields.io/badge/attacut-rgb(32,178,170))]() [![](https://img.shields.io/badge/rank_bm25-rgb(32,178,170))]() [![](https://img.shields.io/badge/pymupdf-rgb(32,178,170))]() [![](https://img.shields.io/badge/pandas-rgb(32,178,170))]() |
+| [ :speech_balloon: Documents ChatBot](https://github.com/HikariJadeEmpire/LawDocuments-Chatbot) | [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Chatbot-rgb(222,49,99))]() [![](https://img.shields.io/badge/LLM-rgb(52,152,219))]() [![](https://img.shields.io/badge/RAG-rgb(52,152,219))]() [![](https://img.shields.io/badge/prompt-rgb(52,152,219))]() [![](https://img.shields.io/badge/Huggingface-rgb(244,208,63))]() [![](https://img.shields.io/badge/API-rgb(86,101,115))]() [![](https://img.shields.io/badge/Docker-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Tailored ```ChatGPT``` with information from your specific *DOCUMENTS*. | [![](https://img.shields.io/badge/langchain-rgb(32,178,170))]() [![](https://img.shields.io/badge/chromadb-rgb(32,178,170))]() [![](https://img.shields.io/badge/openai-rgb(32,178,170))]() [![](https://img.shields.io/badge/dash-rgb(32,178,170))]() [![](https://img.shields.io/badge/requests-rgb(32,178,170))]() [![](https://img.shields.io/badge/pythainlp-rgb(32,178,170))]() [![](https://img.shields.io/badge/pytorch-rgb(32,178,170))]() [![](https://img.shields.io/badge/attacut-rgb(32,178,170))]() [![](https://img.shields.io/badge/rank_bm25-rgb(32,178,170))]() [![](https://img.shields.io/badge/pymupdf-rgb(32,178,170))]() [![](https://img.shields.io/badge/pandas-rgb(32,178,170))]() |
 | [ :speech_balloon: PDF-Bot by ChatGPT ( demo )](https://github.com/HikariJadeEmpire/PDF_Chatbot_ByChatGPT) | [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Chatbot-rgb(222,49,99))]() [![](https://img.shields.io/badge/LLM-rgb(52,152,219))]() [![](https://img.shields.io/badge/RAG-rgb(52,152,219))]() [![](https://img.shields.io/badge/prompt-rgb(52,152,219))]() [![](https://img.shields.io/badge/API-rgb(86,101,115))]() [![](https://img.shields.io/badge/Docker-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Tailored ```ChatGPT``` with information from your specific *PDF*. | [![](https://img.shields.io/badge/langchain-rgb(32,178,170))]() [![](https://img.shields.io/badge/streamlit-rgb(32,178,170))]() [![](https://img.shields.io/badge/pillow-rgb(32,178,170))]() [![](https://img.shields.io/badge/PyPDF2-rgb(32,178,170))]() [![](https://img.shields.io/badge/pandas-rgb(32,178,170))]() |
 | [ 💰 BITCOIN real-time price prediction](https://github.com/HikariJadeEmpire/bitcoin_real_time_prediction) | [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219))](https://en.wikipedia.org/wiki/Machine_learning) [![](https://img.shields.io/badge/API-rgb(86,101,115))]() [![](https://img.shields.io/badge/Docker-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Bitcoin real time prediction using *SNARIMA* by ```riverml``` and ```Binance API``` | [![](https://img.shields.io/badge/dash-rgb(32,178,170))]() [![](https://img.shields.io/badge/plotly-rgb(32,178,170))]() [![](https://img.shields.io/badge/pandas-rgb(32,178,170))]() [![](https://img.shields.io/badge/requests-rgb(32,178,170))]() [![](https://img.shields.io/badge/river-rgb(32,178,170))](https://riverml.xyz/latest/) |
 | [ :framed_picture: Image Classification **without** Deep Learning](https://github.com/HikariJadeEmpire/THNumber_img_classification-dash_app-) | [![](https://img.shields.io/badge/Image%20Preprocessing-rgb(52,152,219))]() [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219))](https://en.wikipedia.org/wiki/Machine_learning) [![](https://img.shields.io/badge/Visualization-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Developing a user-friendly machine learning application using Plotly Dash in Python, designed for non-coders. | [![](https://img.shields.io/badge/pycaret-rgb(32,178,170))]() [![](https://img.shields.io/badge/dash-rgb(32,178,170))]() [![](https://img.shields.io/badge/plotly-rgb(32,178,170))]() [![](https://img.shields.io/badge/scikit%20learn-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pandas-rgb(32,178,170))]() [![](https://img.shields.io/badge/matplotlib-rgb(32,178,170))]() [![](https://img.shields.io/badge/seaborn-rgb(32,178,170))]() |
@@ -39,17 +39,213 @@ Welcome to my portfolio, where I provide an overview of my projects.
 <br>
 
 # Machine Learning & Deep learning (AI)
+<!-- 
 | Project Link | Area | Project Description | Libraries |
 |--------------|-----------------|-------|---------------------|
+| The list below is an integration of many skills |
 | [ :speech_balloon: Documents ChatBot](https://github.com/HikariJadeEmpire/LawDocuments-Chatbot) | [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Chatbot-rgb(222,49,99))]() [![](https://img.shields.io/badge/LLM-rgb(52,152,219))]() [![](https://img.shields.io/badge/RAG-rgb(52,152,219))]() [![](https://img.shields.io/badge/prompt-rgb(52,152,219))]() [![](https://img.shields.io/badge/Huggingface-rgb(244,208,63))]() [![](https://img.shields.io/badge/API-rgb(86,101,115))]() [![](https://img.shields.io/badge/Docker-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Tailored ```ChatGPT``` with information from your specific *DOCUMENTS*. | [![](https://img.shields.io/badge/langchain-rgb(32,178,170))]() [![](https://img.shields.io/badge/chromadb-rgb(32,178,170))]() [![](https://img.shields.io/badge/openai-rgb(32,178,170))]() [![](https://img.shields.io/badge/dash-rgb(32,178,170))]() [![](https://img.shields.io/badge/requests-rgb(32,178,170))]() [![](https://img.shields.io/badge/pythainlp-rgb(32,178,170))]() [![](https://img.shields.io/badge/pytorch-rgb(32,178,170))]() [![](https://img.shields.io/badge/attacut-rgb(32,178,170))]() [![](https://img.shields.io/badge/rank_bm25-rgb(32,178,170))]() [![](https://img.shields.io/badge/pymupdf-rgb(32,178,170))]() [![](https://img.shields.io/badge/pandas-rgb(32,178,170))]() |
 | [ :speech_balloon: PDF-Bot by ChatGPT ( demo )](https://github.com/HikariJadeEmpire/PDF_Chatbot_ByChatGPT) | [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Chatbot-rgb(222,49,99))]() [![](https://img.shields.io/badge/LLM-rgb(52,152,219))]() [![](https://img.shields.io/badge/RAG-rgb(52,152,219))]() [![](https://img.shields.io/badge/prompt-rgb(52,152,219))]() [![](https://img.shields.io/badge/API-rgb(86,101,115))]() [![](https://img.shields.io/badge/Docker-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Tailored ```ChatGPT``` with information from your specific *PDF*. | [![](https://img.shields.io/badge/langchain-rgb(32,178,170))]() [![](https://img.shields.io/badge/streamlit-rgb(32,178,170))]() [![](https://img.shields.io/badge/pillow-rgb(32,178,170))]() [![](https://img.shields.io/badge/PyPDF2-rgb(32,178,170))]() [![](https://img.shields.io/badge/pandas-rgb(32,178,170))]() |
 | [ 💰 BITCOIN real-time price prediction](https://github.com/HikariJadeEmpire/bitcoin_real_time_prediction) | [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219))](https://en.wikipedia.org/wiki/Machine_learning) [![](https://img.shields.io/badge/API-rgb(86,101,115))]() [![](https://img.shields.io/badge/Docker-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Bitcoin real time prediction using *SNARIMA* by ```riverml``` and ```Binance API``` | [![](https://img.shields.io/badge/dash-rgb(32,178,170))]() [![](https://img.shields.io/badge/plotly-rgb(32,178,170))]() [![](https://img.shields.io/badge/pandas-rgb(32,178,170))]() [![](https://img.shields.io/badge/requests-rgb(32,178,170))]() [![](https://img.shields.io/badge/river-rgb(32,178,170))](https://riverml.xyz/latest/) |
 | [ :framed_picture: Image Classification **without** Deep Learning](https://github.com/HikariJadeEmpire/THNumber_img_classification-dash_app-) | [![](https://img.shields.io/badge/Image%20Preprocessing-rgb(52,152,219))]() [![](https://img.shields.io/badge/Web_app-rgb(210,180,140))]() [![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219))](https://en.wikipedia.org/wiki/Machine_learning) [![](https://img.shields.io/badge/Visualization-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Developing a user-friendly machine learning application using Plotly Dash in Python, designed for non-coders. | [![](https://img.shields.io/badge/pycaret-rgb(32,178,170))]() [![](https://img.shields.io/badge/dash-rgb(32,178,170))]() [![](https://img.shields.io/badge/plotly-rgb(32,178,170))]() [![](https://img.shields.io/badge/scikit%20learn-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pandas-rgb(32,178,170))]() [![](https://img.shields.io/badge/matplotlib-rgb(32,178,170))]() [![](https://img.shields.io/badge/seaborn-rgb(32,178,170))]() |
+| The list below is a pure machine learning or deep learning experiments |
  | [ :dollar: Thai money image Classification](https://github.com/HikariJadeEmpire/Image_classification_DeepLearning) | [![](https://img.shields.io/badge/Neural%20Network-rgb(52,152,219))]() [![](https://img.shields.io/badge/Deep%20Learning-rgb(52,152,219))]() [![](https://img.shields.io/badge/Visualization-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Thai money image classification using ```MobileNet V1``` model for CNN with some optimization & GradCam to investigate the correctness of the model. | [![](https://img.shields.io/badge/tensorflow-rgb(32,178,170))]() [![](https://img.shields.io/badge/keras-rgb(32,178,170))]() [![](https://img.shields.io/badge/matplotlib-rgb(32,178,170))]() [![](https://img.shields.io/badge/numpy-rgb(32,178,170))]() |
  | [:mag: Customer Segmentation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md) | [![](https://img.shields.io/badge/Retail-rgb(222,49,99))]() [![](https://img.shields.io/badge/Customer%20Analysis-rgb(52,152,219))]() [![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219))](https://en.wikipedia.org/wiki/Machine_learning) [![](https://img.shields.io/badge/Data%20Wrangling-rgb(52,152,219))]() [![](https://img.shields.io/badge/EDA-rgb(52,152,219))](https://en.wikipedia.org/wiki/Exploratory_data_analysis) [![](https://img.shields.io/badge/Visualization-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Define customer from raw data using python. | [![](https://img.shields.io/badge/scikit%20learn-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pandas-rgb(32,178,170))]() [![](https://img.shields.io/badge/matplotlib-rgb(32,178,170))]() [![](https://img.shields.io/badge/seaborn-rgb(32,178,170))]() [![](https://img.shields.io/badge/plotly%20dash-rgb(32,178,170))]() |
  | [:shopping: Product Recommendation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Product%20recommendation/week05PR.md) | [![](https://img.shields.io/badge/Retail-rgb(222,49,99))]() [![](https://img.shields.io/badge/Customer%20Analysis-rgb(52,152,219))]() [![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219))](https://en.wikipedia.org/wiki/Machine_learning) [![](https://img.shields.io/badge/Data%20Wrangling-rgb(52,152,219))]() [![](https://img.shields.io/badge/EDA-rgb(52,152,219))](https://en.wikipedia.org/wiki/Exploratory_data_analysis) [![](https://img.shields.io/badge/Visualization-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Performing product recommendation :ticket: from raw data using Collaborative Filtering ( item-item ). | [![](https://img.shields.io/badge/scipy-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pandas-rgb(32,178,170))]() [![](https://img.shields.io/badge/matplotlib-rgb(32,178,170))]() [![](https://img.shields.io/badge/networkx-rgb(32,178,170))]() |
  | [:fire: Firewall Classification](https://github.com/HikariJadeEmpire/Firewall_Classifier) | [![](https://img.shields.io/badge/EDA-rgb(52,152,219))](https://en.wikipedia.org/wiki/Exploratory_data_analysis) [![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219))](https://en.wikipedia.org/wiki/Machine_learning) [![](https://img.shields.io/badge/Visualization-rgb(52,152,219))]() [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | The development of a machine learning algorithm to classify firewall actions. | [![](https://img.shields.io/badge/scikit%20learn-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pandas-rgb(32,178,170))]() [![](https://img.shields.io/badge/matplotlib-rgb(32,178,170))]() [![](https://img.shields.io/badge/seaborn-rgb(32,178,170))]() |
  | [:houses: Real estate price prediction.](https://github.com/HikariJadeEmpire/Real_Estate_Prediction) | [![](https://img.shields.io/badge/EDA-rgb(52,152,219))](https://en.wikipedia.org/wiki/Exploratory_data_analysis) [![](https://img.shields.io/badge/Data%20Wrangling-rgb(52,152,219))]() [![](https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219))](https://en.wikipedia.org/wiki/Machine_learning) [![](https://img.shields.io/badge/python-rgb(32,178,170))]() | Training real estate price prediction model. | [![](https://img.shields.io/badge/scikit%20learn-rgb(32,178,170))]() [![](https://img.shields.io/badge/Pandas-rgb(32,178,170))]() [![](https://img.shields.io/badge/matplotlib-rgb(32,178,170))]() [![](https://img.shields.io/badge/seaborn-rgb(32,178,170))]() |
+-->
+<table>
+    <thead>
+        <tr>
+            <th><p align="center">Project Link</p></th>
+            <th><p align="center">Area</p></th>
+            <th><p align="center">Project Description</p></th>
+            <th><p align="center">Libraries</p></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="4"><p align="center">The list below is an integration of many skills</p></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/LawDocuments-Chatbot">:speech_balloon: Documents ChatBot</a></td>
+            <td>
+                <img src="https://img.shields.io/badge/Web_app-rgb(210,180,140)">
+                <img src="https://img.shields.io/badge/Chatbot-rgb(222,49,99)">
+                <img src="https://img.shields.io/badge/LLM-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/RAG-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/prompt-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/Huggingface-rgb(244,208,63)">
+                <img src="https://img.shields.io/badge/API-rgb(86,101,115)">
+                <img src="https://img.shields.io/badge/Docker-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>Tailored <code>ChatGPT</code> with information from your specific <em>DOCUMENTS</em>.</td>
+            <td>
+                <img src="https://img.shields.io/badge/langchain-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/chromadb-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/openai-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/dash-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/requests-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/pythainlp-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/pytorch-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/attacut-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/rank_bm25-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/pymupdf-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/pandas-rgb(32,178,170)">
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/PDF_Chatbot_ByChatGPT">:speech_balloon: PDF-Bot by ChatGPT ( demo )</a></td>
+            <td>
+                <img src="https://img.shields.io/badge/Web_app-rgb(210,180,140)">
+                <img src="https://img.shields.io/badge/Chatbot-rgb(222,49,99)">
+                <img src="https://img.shields.io/badge/LLM-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/RAG-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/prompt-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/API-rgb(86,101,115)">
+                <img src="https://img.shields.io/badge/Docker-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>Tailored <code>ChatGPT</code> with information from your specific <em>PDF</em>.</td>
+            <td>
+                <img src="https://img.shields.io/badge/langchain-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/streamlit-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/pillow-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/PyPDF2-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/pandas-rgb(32,178,170)">
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/bitcoin_real_time_prediction">💰 BITCOIN real-time price prediction</a></td>
+            <td>
+                <img src="https://img.shields.io/badge/Web_app-rgb(210,180,140)">
+                <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/API-rgb(86,101,115)">
+                <img src="https://img.shields.io/badge/Docker-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>Bitcoin real time prediction using <em>SNARIMA</em> by <code>riverml</code> and <code>Binance API</code></td>
+            <td>
+                <img src="https://img.shields.io/badge/dash-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/plotly-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/pandas-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/requests-rgb(32,178,170)">
+                <a href="https://riverml.xyz/latest/"><img src="https://img.shields.io/badge/river-rgb(32,178,170)"></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/THNumber_img_classification-dash_app-">:framed_picture: Image Classification <strong>without</strong> Deep Learning</a></td>
+            <td>
+                <img src="https://img.shields.io/badge/Image%20Preprocessing-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/Web_app-rgb(210,180,140)">
+                <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/Visualization-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>Developing a user-friendly machine learning application using Plotly Dash in Python, designed for non-coders.</td>
+            <td>
+                <img src="https://img.shields.io/badge/pycaret-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/dash-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/plotly-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/scikit%20learn-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/Pandas-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/matplotlib-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/seaborn-rgb(32,178,170)">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4"><p align="center">The list below is a pure machine learning or deep learning experiments</p></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/Image_classification_DeepLearning">:dollar: Thai money image Classification</a></td>
+            <td>
+                <img src="https://img.shields.io/badge/Neural%20Network-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/Deep%20Learning-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/Visualization-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>Thai money image classification using <code>MobileNet V1</code> model for CNN with some optimization &amp; GradCam to investigate the correctness of the model.</td>
+            <td>
+                <img src="https://img.shields.io/badge/tensorflow-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/keras-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/matplotlib-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/numpy-rgb(32,178,170)">
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md">:mag: Customer Segmentation</a></td>
+            <td>
+                <img src="https://img.shields.io/badge/Retail-rgb(222,49,99)">
+                <img src="https://img.shields.io/badge/Customer%20Analysis-rgb(52,152,219)">
+                <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/Data%20Wrangling-rgb(52,152,219)">
+                <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis"><img src="https://img.shields.io/badge/EDA-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/Visualization-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>Define customer from raw data using python.</td>
+            <td>
+                <img src="https://img.shields.io/badge/scikit%20learn-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/Pandas-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/matplotlib-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/seaborn-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/plotly%20dash-rgb(32,178,170)">
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Product%20recommendation/week05PR.md">:shopping: Product Recommendation</a></td>
+            <td>
+                <img src="https://img.shields.io/badge/Retail-rgb(222,49,99)">
+                <img src="https://img.shields.io/badge/Customer%20Analysis-rgb(52,152,219)">
+                <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/Data%20Wrangling-rgb(52,152,219)">
+                <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis"><img src="https://img.shields.io/badge/EDA-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/Visualization-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>Performing product recommendation 🎫 from raw data using Collaborative Filtering ( item-item ).</td>
+            <td>
+                <img src="https://img.shields.io/badge/scipy-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/Pandas-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/matplotlib-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/networkx-rgb(32,178,170)">
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/Firewall_Classifier">:fire: Firewall Classification</a></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis"><img src="https://img.shields.io/badge/EDA-rgb(52,152,219)"></a>
+                <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/Visualization-rgb(52,152,219)">
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>The development of a machine learning algorithm to classify firewall actions.</td>
+            <td>
+                <img src="https://img.shields.io/badge/scikit%20learn-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/Pandas-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/matplotlib-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/seaborn-rgb(32,178,170)">
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/HikariJadeEmpire/Real_Estate_Prediction">:houses: Real estate price prediction.</a></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis"><img src="https://img.shields.io/badge/EDA-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/Data%20Wrangling-rgb(52,152,219)">
+                <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-rgb(52,152,219)"></a>
+                <img src="https://img.shields.io/badge/python-rgb(32,178,170)">
+            </td>
+            <td>Training real estate price prediction model.</td>
+            <td>
+                <img src="https://img.shields.io/badge/scikit%20learn-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/Pandas-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/matplotlib-rgb(32,178,170)">
+                <img src="https://img.shields.io/badge/seaborn-rgb(32,178,170)">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 
