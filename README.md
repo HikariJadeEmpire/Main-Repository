@@ -4,7 +4,7 @@ Welcome to my portfolio, where I provide an overview of my projects.
 - [DevOps & Data Engineering](https://github.com/HikariJadeEmpire/Main-Repository#devops--data-engineering)
 - [Web apps](https://github.com/HikariJadeEmpire/Main-Repository#web-apps)
 - [Mobile apps](https://github.com/HikariJadeEmpire/Main-Repository#mobile-apps)
-- [Machine Learning & Deep learning](https://github.com/HikariJadeEmpire/Main-Repository#machine-learning--deep-learning)
+- [Machine Learning & Deep learning](https://github.com/HikariJadeEmpire/Main-Repository#machine-learning--deep-learning-ai)
 - [Analytics](https://github.com/HikariJadeEmpire/Main-Repository#analytics)
 
 # DevOps & Data Engineering
